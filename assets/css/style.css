@@ -1,5 +1,5 @@
 /**
-* Template Name: Mentor
+* Template Name: Top Achievers
 * Updated: Jan 29 2024 with Bootstrap v5.3.2
 * Template URL: https://bootstrapmade.com/mentor-free-education-bootstrap-theme/
 * Author: BootstrapMade.com
